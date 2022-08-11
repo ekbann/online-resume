@@ -129,7 +129,7 @@ certificates:
   items:
     - name: MCT Microsoft Certified Trainer
       authority: Microsoft
-      time: 2019
+      time: May 2019
       link:
       details: Certification number H120-3831
     - name: MCSE Data Management and Analytics
