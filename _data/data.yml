@@ -39,10 +39,10 @@ experiences:
   title: Experiences
   items:
     - role: Vice-President (1 of 2 Executive Managers; responsibilities span COO, CFO, CTO)
-      time: 2018.03 - 2019.03
+      time: 2011.06 - 2019.02
       company: Bann Química Ltda.
       tag:
-      location: Beijing
+      location: Brazil
       details: |
         Experience in this company:
         + First
@@ -51,10 +51,10 @@ experiences:
         ...
 
     - role: Managing Director (1 of 4 Executive Committee Members)
-      time: 2017.03 - 2018.03
+      time: 1999.07 - 2011.06
       company: Bann Química Ltda.
-      tag: Remote, part-time
-      location: Beijing
+      tag: 
+      location: Brazil
       details: |
         Experience in this company:
         + First
@@ -63,10 +63,10 @@ experiences:
         ...
 
     - role: Chemical Engineer
-      time: 2017.03 - 2018.03
+      time: 1996.08 - 1999.07
       company: Bann Química Ltda.
-      tag: Remote, part-time
-      location: Beijing
+      tag: 
+      location: Brazil
       details: |
         Experience in this company:
         + First
