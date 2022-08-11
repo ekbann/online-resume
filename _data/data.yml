@@ -91,7 +91,7 @@ projects:
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
-        An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3.
+        An Apple ][ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3.
 
 skills:
   display: true
