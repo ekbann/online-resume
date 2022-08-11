@@ -97,7 +97,7 @@ skills:
   display: true
   title: Skills
   details: |
-    Here are my skills:
+    Computer Skills:
     + C/C++
     + C#
     + Python
@@ -108,15 +108,18 @@ skills:
     + Flex/Bison: LALR\(1\) and GLR
     + Lark: Earley, LALR\(1\) and CYK
     + LaTeX
+    + Linux System Administration
+    + Reverse Engineering
 
-    ... Environments and Tools:    
-    + Microsoft Azure Machine Learning
-    + Microsoft HDInsight VM
+    Environments and Tools:    
+    + Microsoft Azure Machine Learning Studio
+    + Microsoft Azure HDInsight (cloud cluster)
+    + Apache Hadoop, Spark, Kafka, Hive, and Storm
     + GNU GCC Toolchain
     + Visual Studio / Visual Studio Code
     + Linux since kernel version 1.2.8
     + SunOS / Solaris
-    + 
+    + OPENSTEP 4.2 / NeXTSTEP / OSX
 
   levels:
     - name: Skill A
@@ -172,13 +175,13 @@ certificates:
       authority: RCM Brasil
       time: 1997
       link: 
-      details: Database design and software development using the ZIM database from Sterling Software
+      details: Database design \(E-R model\) and software development using the ZIM database and IDE from Sterling Software
       
 publications:
   display: false
   title: Publications
   intro: |
-    This is all the books I wrote.
+    These are all the books that I wrote.
 
   items:
     - title: Foo in Action
@@ -214,7 +217,15 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Chess
+      link:
+    - item: Go
+      link:
+    - item: Cryptanalysis and Security
+      link:
+    - item: Sailing
+      link:
+    - item: Music
       link:
     - item: Cooking
       link:
