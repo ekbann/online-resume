@@ -45,8 +45,8 @@ experiences:
       location: São Paulo, Brazil
       details: |
         Experience in this company:
-        + first  
-
+        + first\
+\
     - role: Managing Director (1 of 4 Executive Committee Members)
       time: 1999.07 - 2011.06
       company: Bann Química Ltda.
@@ -58,8 +58,8 @@ experiences:
         + Restructured the entire Logistics and Purchasing Department to implement an efficient and transparent process resulting in savings believed to be at least $1MM per year;
         + Led successful defense of a patent lawsuit in Brazil, U.S. and Italy which could have ceased our indigo production operations leading to the complete shutdown of our business;
         + Led the acquisition of a bio-mass boiler to use environmentally sustainable wood briquettes instead of natural gas generating $650K in yearly savings;
-        + Negotiated and secured $8MM in long-term bank loans to finance a new strategic initiative to source raw materials;  
-
+        + Negotiated and secured $8MM in long-term bank loans to finance a new strategic initiative to source raw materials;\
+\
     - role: Chemical Engineer
       time: 1996.08 - 1999.07
       company: Bann Química Ltda.
@@ -70,8 +70,8 @@ experiences:
         + Analyzed indigo blue production processes in order to reduce cost and improve efficiency;
         + Designed a distillation column for ammonia recovery with savings of $40,000 per month;
         + Created an IT department and implemented company-wide networking services;
-        + Participated in all key management meetings to acquire hands-on managerial experience;  
-
+        + Participated in all key management meetings to acquire hands-on managerial experience;\
+\
 projects:
   display: true
   title: Projects
@@ -118,7 +118,7 @@ education:
       details: |
         Experience in this university:
         + First
-        + Second  
+        + Second
 
     - university: University of Pennsylvania
       time: 1991 - 1996
@@ -128,7 +128,7 @@ education:
         Experience in this university:
         + Melvin C. Molstad Award (First Prize for Best ChE Senior Design Project)
         + Minor in Music
-        + Certificate in Mathematics  
+        + Certificate in Mathematics
 
 certificates:
   display: true
