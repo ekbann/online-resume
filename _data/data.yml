@@ -93,12 +93,6 @@ projects:
       details: |
         An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock cycle accurate but runs at approximately the same speed of a real Apple.
 
-    - name: FooBar
-      link: 
-      details: Platform | Time
---- | ---
-Commodore 64 BASIC | 315
-
 skills:
   display: true
   title: Skills
