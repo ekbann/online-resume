@@ -11,7 +11,7 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  website: ekbann.github.io
+  website: ekbann.blogspot.com
   medium:
   linkedin: ekbann
   googlescholar:
@@ -221,11 +221,15 @@ interests:
       link:
     - item: Go
       link:
-    - item: Cryptanalysis and Security
+    - item: Cryptanalysis
       link:
-    - item: Sailing
+    - item: System Security
+      link:
+    - item: Sailing, Fishing, and Diving
       link:
     - item: Music
+      link:
+    - item: Retrocomputing
       link:
     - item: Cooking
       link:
