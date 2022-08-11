@@ -29,10 +29,10 @@ profile:
   title: Profile
   details: |
     It's your career profile, you can write markdown format text.
-    + Get my feet wet and learn new things
-    + Share my experience and skills
-    + Grow professionally and gain stability
-    + Teach the next generation
+    + Get my feet wet and learn new things;
+    + Share my experience and skills;
+    + Grow professionally and gain stability;
+    + Teach the next generation.
 
 experiences:
   display: true
@@ -45,9 +45,9 @@ experiences:
       location: São Paulo, Brazil
       details: |
         Experience in this company:
-        + Responsible for the entire company \(210 employees with R$250MM revenue\) with direct supervision over Supply Chain, Finance, IT, Human Resources, and Environment Control departments;
-        + Leading the project to update our ERP system to SAP and modernize our computer systems with minimal investment \($350K\) in an accelerated 6-month time span to yield fully accountable and transparent processes;
-        + Leading the remediation project of our deactivated rubber chemicals production site to fulfill Brazil’s environmental obligations \($2MM investment\) and eventually enable the development of low-income housing \($10MM potential sale\);
+        + Responsible for the entire company (210 employees with R$250MM revenue) with direct supervision over Supply Chain, Finance, IT, Human Resources, and Environment Control departments;
+        + Leading the project to update our ERP system to SAP and modernize our computer systems with minimal investment ($350K) in an accelerated 6-month time span to yield fully accountable and transparent processes;
+        + Leading the remediation project of our deactivated rubber chemicals production site to fulfill Brazil’s environmental obligations ($2MM investment) and eventually enable the development of low-income housing ($10MM potential sale);
         + Leading the project to duplicate our pre-reduced indigo production targeting a 10-20% increase in sales for 2017 using the excess capacity for toll-manufacturing hydrogenation services;
         + Leading the project to construct a nitrogen gas pipeline directly from the supplier to avoid the higher cost of liquid nitrogen consumption with potential savings of $500K per year;
 
@@ -86,7 +86,7 @@ projects:
     - name: Game BASIC Compiler
       link: https://github.com/ekbann/integer-basic
       details: |
-        Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point \(Q16.16\) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
+        Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point (Q16.16) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
 
     - name: ApplePy
       link: https://github.com/ekbann/applepy
@@ -167,7 +167,7 @@ certificates:
       authority: RCM Brasil
       time: 1997
       link: 
-      details: Database design \(E-R model\) and software development using the ZIM database and IDE from Sterling Software
+      details: Database design (E-R model) and software development using the ZIM database and IDE from Sterling Software
       
 publications:
   display: false
