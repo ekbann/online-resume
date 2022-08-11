@@ -127,24 +127,16 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
+    - name: MCT Microsoft Certified Trainer
+      authority: Microsoft
+      time: 2019
       link:
       details: |
-<<<<<<< HEAD
         Certification number H120-3831
     - name: MCSE Data Management and Analytics
       authority: Microsoft
       time: 2019
       link: 
-=======
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
->>>>>>> parent of 90346ea (Update data.yml)
       details: |
         Certification number H084-3455
     - name: MCSA: Machine Learning
