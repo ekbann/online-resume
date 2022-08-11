@@ -28,7 +28,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
+    It's your career profile, you can write markdown format text.
     + Get my feet wet and learn new things
     + Share my experience and skills
     + Grow professionally and gain stability
@@ -113,7 +113,7 @@ skills:
 
     Development Environments and Tools:    
     + Microsoft Azure Machine Learning Studio
-    + Microsoft Azure HDInsight (cloud cluster)
+    + Microsoft Azure HDInsight \(cloud cluster\)
     + Apache Hadoop, Spark, Kafka, Hive, and Storm
     + GNU GCC Toolchain
     + Visual Studio / Visual Studio Code
