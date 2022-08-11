@@ -42,11 +42,20 @@ experiences:
       time: 2011.06 - 2019.02
       company: Bann Química Ltda.
       tag:
-      location: Brazil
+      location: São Paulo, Brazil
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Responsible for the entire company (210 employees with R$250MM revenue) with direct supervision over Supply 
+Chain, Finance, IT, Human Resources, and Environment Control departments;
+        + Leading the project to update our ERP system to SAP and modernize our computer systems with minimal 
+investment ($350K) in an accelerated 6-month time span to yield fully accountable and transparent processes;
+        + Leading the remediation project of our deactivated rubber chemicals production site to fulfill Brazil’s 
+environmental obligations ($2MM investment) and eventually enable the development of low-income housing
+($10MM potential sale);
+        + Leading the project to duplicate our pre-reduced indigo production targeting a 10-20% increase in sales for 2017 
+using the excess capacity for toll-manufacturing hydrogenation services;
+        + Leading the project to construct a nitrogen gas pipeline directly from the supplier to avoid the higher cost liquid 
+nitrogen consumption with potential savings of $500K per year;
 
         ...
 
@@ -54,11 +63,18 @@ experiences:
       time: 1999.07 - 2011.06
       company: Bann Química Ltda.
       tag: 
-      location: Brazil
+      location: São Paulo, Brazil
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Responsible for the Indigo manufacturing plant with shared duties in the rubber chemicals plant, Supply Chain, IT,
+and Finance Department;
+        + Restructured the entire Logistics and Purchasing Department to implement an efficient and transparent process 
+resulting in savings believed to be at least $1MM per year;
+        + Led successful defense of a patent lawsuit in Brazil, U.S. and Italy which could have ceased our indigo production
+operations leading to the complete shutdown of our business;
+        + Led the acquisition of a bio-mass boiler to use environmentally sustainable wood briquettes instead of natural gas
+generating $650K in yearly savings;
+        + Negotiated and secured $8MM in long-term bank loans to finance a new strategic initiative to source raw materials;
 
         ...
 
@@ -66,11 +82,13 @@ experiences:
       time: 1996.08 - 1999.07
       company: Bann Química Ltda.
       tag: 
-      location: Brazil
+      location: São Paulo, Brazil
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Analyzed indigo blue production processes in order to reduce cost and improve efficiency;
+        + Designed a distillation column for ammonia recovery with savings of $40,000 per month;
+        + Created an IT department and implemented company-wide networking services;
+        + Participated in all key management meetings to acquire hands-on managerial experience;
 
         ...
 
@@ -130,8 +148,9 @@ education:
       degree: Bachelor of Science and Engineering
       details: |
         Experience in this university:
-        + First
-        + Second
+        + Melvin C. Molstad Award (First Prize for Best ChE Senior Design Project)
+        + Minor in Music
+        + Certificate in Mathematics
 
         ...
 
