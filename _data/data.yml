@@ -80,24 +80,22 @@ projects:
   display: true
   title: Projects
   intro: |
-    These are the projects I am currently involved in.
+    These are the projects I am currently involved in:
 
   items:
     - name: Game BASIC Compiler
       link: https://github.com/ekbann/integer-basic
       details: |
-        Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point \(Q16.16\) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10 to 75x performance gain over traditional BASIC.
-        
-        | Tables        | Are           | Cool  |
-        | ------------- |:-------------:| -----:|
-        | col 3 is      | right-aligned | $1600 |
-        | col 2 is      | centered      |   $12 |
-        | zebra stripes | are neat      |    $1 |
+        Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point \(Q16.16\) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
+
+  levels:
+    - name: Completition
+      level: 66
 
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
-        An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock cycle accurate but runs at approximately the same speed of a real Apple.
+        An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple.
 
 skills:
   display: true
