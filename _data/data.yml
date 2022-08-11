@@ -46,7 +46,7 @@ experiences:
       details: |
         Experience in this company:
         + first
-&nbsp;
+   
     - role: Managing Director (1 of 4 Executive Committee Members)
       time: 1999.07 - 2011.06
       company: Bann Química Ltda.
@@ -59,7 +59,7 @@ experiences:
         + Led successful defense of a patent lawsuit in Brazil, U.S. and Italy which could have ceased our indigo production operations leading to the complete shutdown of our business;
         + Led the acquisition of a bio-mass boiler to use environmentally sustainable wood briquettes instead of natural gas generating $650K in yearly savings;
         + Negotiated and secured $8MM in long-term bank loans to finance a new strategic initiative to source raw materials;
-&nbsp;
+   
     - role: Chemical Engineer
       time: 1996.08 - 1999.07
       company: Bann Química Ltda.
@@ -71,7 +71,7 @@ experiences:
         + Designed a distillation column for ammonia recovery with savings of $40,000 per month;
         + Created an IT department and implemented company-wide networking services;
         + Participated in all key management meetings to acquire hands-on managerial experience;
-&nbsp;
+   
 projects:
   display: true
   title: Projects
