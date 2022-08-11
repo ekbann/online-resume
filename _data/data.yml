@@ -95,7 +95,9 @@ projects:
 
     - name: FooBar
       link: 
-      details: This is a test | Hello World
+      details: Platform | Time
+--- | ---
+Commodore 64 BASIC | 315
 
 skills:
   display: true
