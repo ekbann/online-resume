@@ -143,8 +143,7 @@ certificates:
       authority: Microsoft
       time: 2019
       link: 
-      details: |
-        Certification number H072-0012
+      details: Certification number H072-0012
 
 publications:
   display: true
