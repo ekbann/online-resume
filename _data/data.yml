@@ -88,14 +88,10 @@ projects:
       details: |
         Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point \(Q16.16\) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
 
-      levels:
-        - name: Completition
-          level: 66
-
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
-        An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple.
+        An Apple \]\[ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3.
 
 skills:
   display: true
@@ -103,6 +99,7 @@ skills:
   details: |
     Here are my skills:
     + C/C++
+    + C#
     + Python
     + ARM Assembly
     + SPARC Assembly
@@ -112,7 +109,14 @@ skills:
     + Lark: Earley, LALR\(1\) and CYK
     + LaTeX
 
-    ...
+    ... Environments and Tools:    
+    + Microsoft Azure Machine Learning
+    + Microsoft HDInsight VM
+    + GNU GCC Toolchain
+    + Visual Studio / Visual Studio Code
+    + Linux since kernel version 1.2.8
+    + SunOS / Solaris
+    + 
 
   levels:
     - name: Skill A
@@ -164,6 +168,11 @@ certificates:
       time: March 2019
       link: 
       details: Certification number H072-0012
+    - name: ZIM Data Modeling and Programming
+      authority: RCM Brasil
+      time: 1997
+      link: 
+      details: Database design and software development using the ZIM database from Sterling Software
       
 publications:
   display: false
