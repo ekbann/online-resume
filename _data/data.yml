@@ -19,7 +19,7 @@ contact:
   github: ekbann
   gitlab:
   bitbucket:
-  twitter: ekbann
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -134,12 +134,12 @@ certificates:
       details: Certification number H120-3831
     - name: MCSE Data Management and Analytics
       authority: Microsoft
-      time: 2019
+      time: April 2019
       link: 
       details: Certification number H084-3455
     - name: MCSA Machine Learning
       authority: Microsoft
-      time: 2019
+      time: March 2019
       link: 
       details: Certification number H072-0012
       
@@ -160,7 +160,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -170,10 +170,14 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
-      level: Native
+    - idiom: Portuguese
+      level: Fluent
     - idiom: English
-      level: Professional
+      level: Fluent
+    - idiom: French
+      level: Intermediate
+    - idiom: Russian
+      level: Beginner
 
 interests:
   display: true
