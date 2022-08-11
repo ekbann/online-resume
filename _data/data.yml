@@ -105,15 +105,15 @@ skills:
     + SPARC Assembly
     + 65C02 Assembly
     + Common LISP
-    + Flex/Bison: LALR\(1\) and GLR
-    + Lark: Earley, LALR\(1\) and CYK
+    + Flex/Bison: LALR(1) and GLR
+    + Lark: Earley, LALR(1) and CYK
     + LaTeX
     + Linux System Administration
     + Reverse Engineering
 
     Development Environments and Tools:    
     + Microsoft Azure Machine Learning Studio
-    + Microsoft Azure HDInsight \(cloud cluster\)
+    + Microsoft Azure HDInsight (cloud cluster)
     + Apache Hadoop, Spark, Kafka, Hive, and Storm
     + GNU GCC Toolchain
     + Visual Studio / Visual Studio Code
@@ -217,7 +217,7 @@ interests:
       link:
     - item: System Security
       link:
-    - item: Intelligent Systems
+    - item: AI and ML
       link:
     - item: Sailing, Fishing, and Diving
       link:
