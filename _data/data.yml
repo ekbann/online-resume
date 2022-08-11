@@ -29,10 +29,10 @@ profile:
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    + Get my feet wet and learn new things
+    + Share my experience and skills
+    + Grow professionally and gain stability
+    + Teach the next generation
 
 experiences:
   display: true
@@ -111,7 +111,7 @@ skills:
     + Linux System Administration
     + Reverse Engineering
 
-    Environments and Tools:    
+    Development Environments and Tools:    
     + Microsoft Azure Machine Learning Studio
     + Microsoft Azure HDInsight (cloud cluster)
     + Apache Hadoop, Spark, Kafka, Hive, and Storm
@@ -121,6 +121,7 @@ skills:
     + SunOS / Solaris
     + OPENSTEP 4.2 / NeXTSTEP / OSX
 
+<!--
   levels:
     - name: Skill A
       level: 90
@@ -128,6 +129,7 @@ skills:
       level: 80
     - name: Skill C
       level: 70
+-->
 
 education:
   display: true
@@ -139,8 +141,8 @@ education:
       degree: Master of Arts
       details: |
         Experience in this university:
-        + First
-        + Second
+        + Systematic Theology
+        + Old Testament
 
     - university: University of Pennsylvania
       time: 1991 - 1996
@@ -224,6 +226,8 @@ interests:
     - item: Cryptanalysis
       link:
     - item: System Security
+      link:
+    - item: Intelligent Systems
       link:
     - item: Sailing, Fishing, and Diving
       link:
