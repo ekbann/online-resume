@@ -136,9 +136,9 @@ certificates:
       authority: Microsoft
       time: 2019
       link: 
-      details:
-        Certification number H084-3455
-
+      details: Certification number H084-3455
+    - name: MCSA Machine Learning
+    
 publications:
   display: true
   title: Publications
