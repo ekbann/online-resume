@@ -121,16 +121,6 @@ skills:
     + SunOS / Solaris
     + OPENSTEP 4.2 / NeXTSTEP / OSX
 
-<!--
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
--->
-
 education:
   display: true
   title: Education
