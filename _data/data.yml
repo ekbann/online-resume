@@ -1,5 +1,5 @@
 basic:
-  name: Ellery Bann
+  name: Ellery K. Bann
   title: Compiler Designer and Backend Developer
   avatar:
     display: false
@@ -83,10 +83,16 @@ projects:
     These are the projects I am currently involved in.
 
   items:
-    - name: Commander X16
-      link: https://www.commanderx16.com/
+    - name: Game BASIC Compiler
+      link: https://github.com/ekbann/integer-basic
       details: |
         Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point \(Q16.16\) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10 to 75x performance gain over traditional BASIC.
+        
+        | Tables        | Are           | Cool  |
+        | ------------- |:-------------:| -----:|
+        | col 3 is      | right-aligned | $1600 |
+        | col 2 is      | centered      |   $12 |
+        | zebra stripes | are neat      |    $1 |
 
     - name: ApplePy
       link: https://github.com/ekbann/applepy
@@ -162,7 +168,7 @@ certificates:
       details: Certification number H072-0012
       
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -207,7 +213,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
