@@ -19,7 +19,7 @@ contact:
   github: ekbann
   gitlab:
   bitbucket:
-  twitter: ElleryBann
+  twitter: ekbann
   stackoverflow:
   quora:
   goodreads:
@@ -101,8 +101,8 @@ education:
   display: true
   title: Education
   items:
-    - university: Southeastern Baptist Theological Seminary
-      time: 2020 - present
+    - university: SOUTHEASTERN BAPTIST THEOLOGICAL SEMINARY
+      time: 2020 - 2023
       major: Biblical Counseling
       degree: Master of Arts
       details: |
@@ -112,7 +112,7 @@ education:
 
         ...
 
-    - university: University of Pennsylvania
+    - university: UNIVERSITY OF PENNSYLVANIA
       time: 1991 - 1996
       major: Chemical Engineering
       degree: Bachelor of Science and Engineering
@@ -127,16 +127,24 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: MCT Microsoft Certified Trainer
-      authority: Microsoft
-      time: 2019
+    - name: Course Foo
+      authority: Coursera
+      time: 2020
       link:
       details: |
+<<<<<<< HEAD
         Certification number H120-3831
     - name: MCSE Data Management and Analytics
       authority: Microsoft
       time: 2019
       link: 
+=======
+        It's my Course Foo certificate by coursera.
+    - name: Course Bar
+      authority: Coursera
+      time: 2020
+      link: https://www.google.com
+>>>>>>> parent of 90346ea (Update data.yml)
       details: |
         Certification number H084-3455
     - name: MCSA: Machine Learning
