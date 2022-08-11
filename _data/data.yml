@@ -129,15 +129,22 @@ certificates:
   items:
     - name: MCT Microsoft Certified Trainer
       authority: Microsoft
-      time: 2019
+      time: May 2019
       link:
       details: |
         Certification number H120-3831
     - name: MCSE Data Management and Analytics
       authority: Microsoft
-      time: 2019
-      link: https://www.google.com
+      time: April 2019
+      link: 
       details: |
+        Certification number H084-3455
+    - name: MCSA: Machine Learning
+      authority: Microsoft
+      time: March 2019
+      link: 
+      details: |
+        Certification number H072-0012
 
 publications:
   display: true
