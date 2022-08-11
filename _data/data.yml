@@ -131,7 +131,7 @@ certificates:
       authority: Microsoft
       time: 2019
       link:
-      details:
+      details: foo | bar
         Certification number H120-3831
     - name: MCSE Data Management and Analytics
       authority: Microsoft
