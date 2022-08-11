@@ -38,9 +38,9 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
+    - role: Vice-President (1 of 2 Executive Managers; responsibilities span COO, CFO, CTO)
       time: 2018.03 - 2019.03
-      company: Second Company
+      company: Bann Química Ltda.
       tag:
       location: Beijing
       details: |
@@ -50,9 +50,21 @@ experiences:
 
         ...
 
-    - role: Backend Developer
+    - role: Managing Director (1 of 4 Executive Committee Members)
       time: 2017.03 - 2018.03
-      company: First Company
+      company: Bann Química Ltda.
+      tag: Remote, part-time
+      location: Beijing
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+        ...
+
+    - role: Chemical Engineer
+      time: 2017.03 - 2018.03
+      company: Bann Química Ltda.
       tag: Remote, part-time
       location: Beijing
       details: |
