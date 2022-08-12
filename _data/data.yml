@@ -28,7 +28,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can write markdown format text.
+    After 22 years in the chemical manufacturing business the time has come to pursue my true passion. Transitioning to a new field of work at such a late age is not for the faint-hearted but this decision was made with the support of my family in an ideal moment. I lived through the personal computer golden age during the late 70s and early 80s. I cut my teeth on an 8-bit Apple computer devouring any technical book I could lay my hands on to the point of writing and burning my own EPROMs to aid in my never-ending curiosity of that wonderful machine. I reversed engineered enough software to understand every intricancy of the operating system and its entire 64KB memory map. That passion has never faded throughout my life and was always an integral part of my work in one way or another, if not at home.
     + Get my feet wet and learn new things;
     + Share my experience and skills;
     + Grow professionally and gain stability;
@@ -86,12 +86,12 @@ projects:
     - name: Game BASIC Compiler
       link: https://github.com/ekbann/integer-basic
       details: |
-        Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point (Q16.16) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
+        Designed and implemented a novel BASIC compiler to 65C02 assembly written in Python using the Lark parsing library. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point (Q16.16) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
 
     - name: SPARC C Compiler
       link: https://github.com/ekbann/sparc-compiler
       details: |
-        A SPARC C compiler written in C using Flex and Bison.
+        A comprehensive study on writing a C compiler for the SPARC sun4m architecture written in C using Flex and Bison. Produces extremely tight code and performs similarly to GCC.
 
     - name: ApplePy
       link: https://github.com/ekbann/applepy
@@ -113,9 +113,9 @@ skills:
     + Common LISP
     + Flex/Bison: LALR(1) and GLR
     + Lark: Earley, LALR(1) and CYK
-    + LaTeX
     + Linux System Administration
     + Reverse Engineering
+    + LaTeX
 
     Development Environments and Tools:    
     + Microsoft Azure Machine Learning Studio
@@ -124,7 +124,7 @@ skills:
     + GNU GCC Toolchain
     + Visual Studio / Visual Studio Code
     + Linux since kernel version 1.2.8
-    + SunOS / Solaris
+    + SunOS 4.1.4 / Solaris 2.6
     + OPENSTEP 4.2 / NeXTSTEP / OS X
     + Lego Mindstorms EV3
 
@@ -227,7 +227,7 @@ interests:
     - item: AI and ML
       link:
     - item: Retrocomputing
-      link:
+      link: https://www.commanderx16.com/
     - item: Sailing, Fishing, and Diving
       link:
     - item: Music
