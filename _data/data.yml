@@ -88,6 +88,11 @@ projects:
       details: |
         Designed and implemented a novel BASIC compiler to 65C02 assembly. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point (Q16.16) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
 
+    - name: SPARC C Compiler
+      link: github.com/ekbann/sparc-compiler
+      details: |
+        A SPARC C compiler written in C using Flex and Bison.
+
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
@@ -103,6 +108,7 @@ skills:
     + Python
     + ARM Assembly
     + SPARC Assembly
+    + 680x0 Assembly
     + 65C02 Assembly
     + Common LISP
     + Flex/Bison: LALR(1) and GLR
@@ -119,7 +125,8 @@ skills:
     + Visual Studio / Visual Studio Code
     + Linux since kernel version 1.2.8
     + SunOS / Solaris
-    + OPENSTEP 4.2 / NeXTSTEP / OSX
+    + OPENSTEP 4.2 / NeXTSTEP / OS X
+    + Lego Mindstorms EV3
 
 education:
   display: true
@@ -167,7 +174,7 @@ certificates:
       authority: RCM Brasil
       time: 1997
       link: 
-      details: Database design (E-R model) and software development using the ZIM database and IDE from Sterling Software
+      details: Database design and software development using the ZIM relational database and IDE from Sterling Software
       
 publications:
   display: false
@@ -210,20 +217,20 @@ interests:
   title: Interests
   items:
     - item: Chess
-      link:
+      link: ratings.fide.com/profile/2028263
     - item: Go
-      link:
+      link: nihonkiin.com.br
     - item: Cryptanalysis
       link:
     - item: System Security
       link:
     - item: AI and ML
       link:
+    - item: Retrocomputing
+      link:
     - item: Sailing, Fishing, and Diving
       link:
     - item: Music
-      link:
-    - item: Retrocomputing
       link:
     - item: Cooking
       link:
