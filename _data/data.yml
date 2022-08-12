@@ -83,15 +83,20 @@ projects:
     These are the projects I am currently involved in:
 
   items:
-    - name: Game BASIC Compiler
+    - name: BASIC Compiler
       link: https://github.com/ekbann/integer-basic
       details: |
         Designed and implemented a novel BASIC compiler to 65C02 assembly written in Python using the Lark parsing library. Based on Steve Wozniak's Integer BASIC with additional routines to perform 32-bit fixed-point (Q16.16) math on a virtual stack machine. A Sieve of Eratosthenes benchmark indicates a 10x performance gain over interpreted BASIC. A future Mandelbrot benchmark will demonstrate its amazing fixed-point calculations performance.
 
-    - name: SPARC C Compiler
+    - name: C Compiler
       link: https://github.com/ekbann/sparc-compiler
       details: |
         A comprehensive study on writing a C compiler for the SPARC sun4m architecture written in C using Flex and Bison. Produces extremely tight code and performs similarly to GCC.
+
+    - name: A Compiler for a New Language
+      link: 
+      details: |
+        A placeholder for a new project aimed at learning ARM assembly and writing a novel compiler for the Raspberry Pi computer. Currently designing a new and simple strongly-typed functional programming language.
 
     - name: ApplePy
       link: https://github.com/ekbann/applepy
@@ -121,6 +126,7 @@ skills:
     + Microsoft Azure Machine Learning Studio
     + Microsoft Azure HDInsight (cloud cluster)
     + Apache Hadoop, Spark, Kafka, Hive, and Storm
+    + RStudio Desktop IDE
     + GNU GCC Toolchain
     + Visual Studio / Visual Studio Code
     + Linux since kernel version 1.2.8
