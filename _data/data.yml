@@ -28,8 +28,8 @@ profile:
   display: true
   title: Profile
   details: |
-    After 22 years in the chemical manufacturing business the time has come to pursue my true passion. Transitioning to a new field of work at a later stage of life is not for the faint-hearted but this decision was made with the support of my family in an ideal moment. I lived through the personal computer golden age in the late 70s and early 80s. I cut my teeth on an 8-bit Apple computer devouring any technical book I could lay my hands on to the point of writing and burning my own EPROMs to aid in my never-ending curiosity of that amazing machine. I reversed engineered enough software to understand the intricacies of the operating system and its entire 64KB memory map. That passion has never faded throughout my life and was always an integral part of my work in one way or another, if not in my home laboratory. I am eager to start at any position commensurate to my skills in order to:
-    + Get my feet wet and learn new things;
+    After 22 years in the chemical manufacturing business the time has come to pursue my true passion. Transitioning to a new field of work at a later stage of life is not for the faint-hearted but this decision was made with the support of my family in an ideal moment. I lived through the personal computer golden age in the late 70s and early 80s. I got my first experience on an 8-bit Apple computer devouring any technical book I could lay my hands on to the point of writing and burning my own EPROMs to aid in my never-ending curiosity of that amazing machine. I reversed engineered enough software to understand the intricacies of the operating system and its entire 64KB memory map. That passion has never faded throughout my life and was always an integral part of my work in one way or another, if not in my home laboratory. I am eager to start at any position commensurate to my skills in order to:
+    + Be completely immersed and learn new things;
     + Share my experience and skills;
     + Grow professionally and gain stability;
     + Teach the next generation.
@@ -93,15 +93,15 @@ projects:
       details: |
         A comprehensive study on writing a C compiler for the SPARC sun4m architecture written in C using Flex and Bison. Produces extremely tight code and performs similarly to GCC.
 
-    - name: A Compiler for a New Language
-      link: 
-      details: |
-        A placeholder for a new project aimed at learning ARM assembly and writing a novel compiler for the Raspberry Pi computer. Currently designing a new and simple strongly-typed functional programming language.
-
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
         An Apple ][ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3.
+
+    - name: A Compiler for a New Language
+      link: 
+      details: |
+        A placeholder for a new project aimed at learning ARM assembly and writing a novel compiler for the Raspberry Pi computer. Currently designing a new and simple postfix stack programming language. I will most likely implement a 32-bit integer math library.
 
 skills:
   display: true
