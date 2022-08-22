@@ -92,7 +92,7 @@ projects:
     - name: SPARC C Compiler
       link: https://github.com/ekbann/sparc-compiler
       details: |
-        A comprehensive study on writing a C compiler for the SPARC sun4m architecture found in the SPARCstation 5 and SPARCstation 20. It is written in C using the GNU tools, Flex and Bison. The compiler produces extremely tight assembly code and performs similarly to GCC output.
+        A comprehensive study on writing a C compiler for the SPARC sun4m architecture found in the SPARCstation 5 and SPARCstation 20. It is written in C using the GNU tools, Flex (lexical analyser) and Bison (parser generator). The compiler produces extremely tight assembly code and performs similarly to the GNU C Compiler output.
 
     - name: ARM BASIC Compiler
       link: 
@@ -102,7 +102,7 @@ projects:
     - name: ApplePy
       link: https://github.com/ekbann/applepy
       details: |
-        An Apple ][ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3.
+        An Apple ][ emulator written in pure Python and Tkinter. It is not clock-cycle accurate but runs at approximately the same speed of a real Apple using PyPy3. Implements an accurate disk drive interface to process disk images using the 6+2 "nybble" encodings.
 
 skills:
   display: true
