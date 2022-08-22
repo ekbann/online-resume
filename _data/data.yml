@@ -92,7 +92,7 @@ projects:
     - name: SPARC C Compiler
       link: https://github.com/ekbann/sparc-compiler
       details: |
-        A comprehensive study on writing a C compiler for the SPARC sun4m architecture written in C using Flex and Bison. Produces extremely tight code and performs similarly to GCC.
+        A comprehensive study on writing a C compiler for the SPARC sun4m architecture found in the SPARCstation 5 and SPARCstation 20. It is written in C using the GNU tools, Flex and Bison. The compiler produces extremely tight assembly code and performs similarly to GCC output.
 
     - name: ARM BASIC Compiler
       link: 
